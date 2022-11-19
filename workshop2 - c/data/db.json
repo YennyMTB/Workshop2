@@ -1,0 +1,144 @@
+{
+    "peliculas": [
+        {
+            "id": "1",
+            "nombre": "El retorno de las Brujas 2",
+            "Clasificacion": "Para mayores de 7 años",
+            "genero": "comedia",
+            "img": "https://th.bing.com/th/id/OIP.6F1QrZUXjM_sAxSLCVZ93wHaDt?pid=ImgDet&rs=1"
+        },
+        {
+            "id": "2",
+            "nombre": "Thor 4 Amor y Trueno",
+            "Clasificacion": "Para mayores de 13 años",
+            "genero": "Accion",
+            "img": "https://th.bing.com/th/id/OIF.ZI9wYx5Drfcfhq3eWuKPaA?pid=ImgDet&rs=1"
+        },
+        {
+            "id": "3",
+            "nombre": "Minions 4: El origen de Gru",
+            "Clasificacion": "Para mayores de 4 años",
+            "genero": "Dibujos Animados",
+            "img": "https://th.bing.com/th/id/R.3ebbfdb628f1a12e3ade5ca3eb102550?rik=QrIuYC5ozJuoMQ&riu=http%3a%2f%2fwww.mubis.es%2fmedia%2fusers%2f12828%2f254866%2fposter-de-minions-el-origen-de-gru-original.jpg&ehk=%2bdFzqbaB1gfzUDWq6MV7jNccu6z5M7H05Ye5YNMTfo0%3d&risl=&pid=ImgRaw&r=0"
+        },
+        {
+            "id": "4",
+            "nombre": "Lightyear",
+            "Clasificacion": "Para mayores de 10 años",
+            "genero": "Dibujos Animados",
+            "img": "https://www.filmyt.com/wp-content/uploads/2021/08/lightyear-2022-660x330.jpg"
+        },
+        {
+            "id": "5",
+            "nombre": "Jurassic World 3: Dominio",
+            "Clasificacion": "Para mayores de 7 años",
+            "genero": "Accion",
+            "img": "https://th.bing.com/th/id/OIP.xZjhVtx6d-wUFxrxVKwiSAHaF7?pid=ImgDet&rs=1"
+        },
+        {
+            "id": "6",
+            "nombre": "Tren Bala",
+            "Clasificacion": "Para mayores de 7 años",
+            "genero": "comedia",
+            "img": "https://sembrarvalores.org.ar/wp-content/uploads/2022/08/cine-tren-bala.jpg"
+        },
+        {
+            "id": "7",
+            "nombre": "Sonrie",
+            "Clasificacion": "Para mayores de 16 años",
+            "genero": "Terror",
+            "img": "https://procinal.com/uploads/PELICULAS/Img_movies/Img_360x500/SONRIE1.jpg"
+        },
+        {
+            "id": "8",
+            "nombre": "Telefono Negro",
+            "Clasificacion": "Para mayores de 16 años",
+            "genero": "Terror",
+            "img": "https://th.bing.com/th/id/OIP.kB4QNWzYxPGTuyHLoNFywAHaJQ?pid=ImgDet&rs=1"
+        },
+        {
+            "id": "9",
+            "nombre": "Bajo la misma estrella",
+            "Clasificacion": "Para mayores de 12 años",
+            "genero": "Romance",
+            "img": "https://img1.od-cdn.com/ImageType-100/0111-1/%7B1105F971-CB33-404E-BEAD-67549CE329A7%7DImg100.jpg"
+        },
+        {
+            "id": "10",
+            "nombre": "Posdata te amo",
+            "Clasificacion": "Para mayores de 12 años",
+            "genero": "Romance",
+            "img": "https://th.bing.com/th/id/OIP.OR0ZPuwsejqMX_iCQv8McAHaKX?pid=ImgDet&rs=1"
+        },
+        {
+            "id": "11",
+            "nombre": "Black Adam",
+            "Clasificacion": "Para mayores de 14 años",
+            "genero": "Accion",
+            "img": "https://es.web.img2.acsta.net/pictures/22/10/07/16/48/1142280.jpg"
+        },
+        {
+            "id": "12",
+            "nombre": "La Mujer Rey",
+            "Clasificacion": "Para mayores de 14 años",
+            "genero": "Accion",
+            "img": "https://uip.com.co/wp-content/uploads/2022/09/LaMujerRery-poster-estrenos-nuevo.webp"
+        },
+        {
+            "id": "13",
+            "nombre": "La ciudad perdida",
+            "Clasificacion": "Para mayores de 8 años",
+            "genero": "comedia",
+            "img": "https://es.web.img2.acsta.net/pictures/22/02/28/16/18/2106533.jpg"
+        },
+        {
+            "id": "14",
+            "nombre": "Dog: un viaje salvaje",
+            "Clasificacion": "Para mayores de 8 años",
+            "genero": "comedia",
+            "img": "https://es.web.img2.acsta.net/pictures/22/03/03/18/15/3886284.jpg"
+        },
+        {
+            "id": "15",
+            "nombre": "La casa de los abuelos",
+            "Clasificacion": "Para mayores de 14 años",
+            "genero": "Terror",
+            "img": "https://pics.filmaffinity.com/La_casa_de_los_abuelos-732221765-large.jpg"
+        },
+        {
+            "id": "16",
+            "nombre": "Amitivylle in the Hood",
+            "Clasificacion": "Para mayores de 16 años",
+            "genero": "Terror",
+            "img": "https://pics.filmaffinity.com/Amityville_in_the_Hood-521919796-large.jpg"
+        },
+        {
+            "id": "17",
+            "nombre": "DC Liga de SuperMascotas",
+            "Clasificacion": "Para mayores de 4 años",
+            "genero": "Dibujos Animados",
+            "img": "https://archivos-cms.cinecolombia.com/images/2/4/3/4/24342-13-esl-CO/642c897aa7c2-dc-super.jpg"
+        },
+        {
+            "id": "18",
+            "nombre": "Red",
+            "Clasificacion": "Para mayores de 4 años",
+            "genero": "Dibujos Animados",
+            "img": "https://es.web.img3.acsta.net/pictures/21/11/17/16/03/3925548.jpg"
+        },
+        {
+            "id": "19",
+            "nombre": "Como perder a un hombre en 10 Días",
+            "Clasificacion": "Para mayores de 12 años",
+            "genero": "Romance",
+            "img": "https://pics.filmaffinity.com/how_to_lose_a_guy_in_10_days-865924050-msmall.jpg"
+        },
+        {
+            "id": "20",
+            "nombre": "Votos de amor",
+            "Clasificacion": "Para mayores de 12 años",
+            "genero": "Romance",
+            "img": "https://i.pinimg.com/474x/e5/49/71/e54971edfb2572e967e8597522090f52--the-vow-true-stories.jpg"
+        }
+    ] 
+}
